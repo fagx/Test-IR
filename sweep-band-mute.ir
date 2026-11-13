@@ -1,0 +1,387 @@
+Filetype: IR signals file
+Version: 1
+#
+name: Band_addr00
+type: parsed
+protocol: SIRC
+address: 00 00 00 00
+command: 0F 00 00 00
+#
+name: Band_addr01
+type: parsed
+protocol: SIRC
+address: 01 00 00 00
+command: 0F 00 00 00
+#
+name: Band_addr02
+type: parsed
+protocol: SIRC
+address: 02 00 00 00
+command: 0F 00 00 00
+#
+name: Band_addr03
+type: parsed
+protocol: SIRC
+address: 03 00 00 00
+command: 0F 00 00 00
+#
+name: Band_addr04
+type: parsed
+protocol: SIRC
+address: 04 00 00 00
+command: 0F 00 00 00
+#
+name: Band_addr05
+type: parsed
+protocol: SIRC
+address: 05 00 00 00
+command: 0F 00 00 00
+#
+name: Band_addr06
+type: parsed
+protocol: SIRC
+address: 06 00 00 00
+command: 0F 00 00 00
+#
+name: Band_addr07
+type: parsed
+protocol: SIRC
+address: 07 00 00 00
+command: 0F 00 00 00
+#
+name: Band_addr08
+type: parsed
+protocol: SIRC
+address: 08 00 00 00
+command: 0F 00 00 00
+#
+name: Band_addr09
+type: parsed
+protocol: SIRC
+address: 09 00 00 00
+command: 0F 00 00 00
+#
+name: Band_addr10
+type: parsed
+protocol: SIRC
+address: 0A 00 00 00
+command: 0F 00 00 00
+#
+name: Band_addr11
+type: parsed
+protocol: SIRC
+address: 0B 00 00 00
+command: 0F 00 00 00
+#
+name: Band_addr12
+type: parsed
+protocol: SIRC
+address: 0C 00 00 00
+command: 0F 00 00 00
+#
+name: Band_addr13
+type: parsed
+protocol: SIRC
+address: 0D 00 00 00
+command: 0F 00 00 00
+#
+name: Band_addr14
+type: parsed
+protocol: SIRC
+address: 0E 00 00 00
+command: 0F 00 00 00
+#
+name: Band_addr15
+type: parsed
+protocol: SIRC
+address: 0F 00 00 00
+command: 0F 00 00 00
+#
+name: Band_addr16
+type: parsed
+protocol: SIRC
+address: 10 00 00 00
+command: 0F 00 00 00
+#
+name: Band_addr17
+type: parsed
+protocol: SIRC
+address: 11 00 00 00
+command: 0F 00 00 00
+#
+name: Band_addr18
+type: parsed
+protocol: SIRC
+address: 12 00 00 00
+command: 0F 00 00 00
+#
+name: Band_addr19
+type: parsed
+protocol: SIRC
+address: 13 00 00 00
+command: 0F 00 00 00
+#
+name: Band_addr20
+type: parsed
+protocol: SIRC
+address: 14 00 00 00
+command: 0F 00 00 00
+#
+name: Band_addr21
+type: parsed
+protocol: SIRC
+address: 15 00 00 00
+command: 0F 00 00 00
+#
+name: Band_addr22
+type: parsed
+protocol: SIRC
+address: 16 00 00 00
+command: 0F 00 00 00
+#
+name: Band_addr23
+type: parsed
+protocol: SIRC
+address: 17 00 00 00
+command: 0F 00 00 00
+#
+name: Band_addr24
+type: parsed
+protocol: SIRC
+address: 18 00 00 00
+command: 0F 00 00 00
+#
+name: Band_addr25
+type: parsed
+protocol: SIRC
+address: 19 00 00 00
+command: 0F 00 00 00
+#
+name: Band_addr26
+type: parsed
+protocol: SIRC
+address: 1A 00 00 00
+command: 0F 00 00 00
+#
+name: Band_addr27
+type: parsed
+protocol: SIRC
+address: 1B 00 00 00
+command: 0F 00 00 00
+#
+name: Band_addr28
+type: parsed
+protocol: SIRC
+address: 1C 00 00 00
+command: 0F 00 00 00
+#
+name: Band_addr29
+type: parsed
+protocol: SIRC
+address: 1D 00 00 00
+command: 0F 00 00 00
+#
+name: Band_addr30
+type: parsed
+protocol: SIRC
+address: 1E 00 00 00
+command: 0F 00 00 00
+#
+name: Band_addr31
+type: parsed
+protocol: SIRC
+address: 1F 00 00 00
+command: 0F 00 00 00
+#
+name: Mute_addr00
+type: parsed
+protocol: SIRC
+address: 00 00 00 00
+command: 14 00 00 00
+#
+name: Mute_addr01
+type: parsed
+protocol: SIRC
+address: 01 00 00 00
+command: 14 00 00 00
+#
+name: Mute_addr02
+type: parsed
+protocol: SIRC
+address: 02 00 00 00
+command: 14 00 00 00
+#
+name: Mute_addr03
+type: parsed
+protocol: SIRC
+address: 03 00 00 00
+command: 14 00 00 00
+#
+name: Mute_addr04
+type: parsed
+protocol: SIRC
+address: 04 00 00 00
+command: 14 00 00 00
+#
+name: Mute_addr05
+type: parsed
+protocol: SIRC
+address: 05 00 00 00
+command: 14 00 00 00
+#
+name: Mute_addr06
+type: parsed
+protocol: SIRC
+address: 06 00 00 00
+command: 14 00 00 00
+#
+name: Mute_addr07
+type: parsed
+protocol: SIRC
+address: 07 00 00 00
+command: 14 00 00 00
+#
+name: Mute_addr08
+type: parsed
+protocol: SIRC
+address: 08 00 00 00
+command: 14 00 00 00
+#
+name: Mute_addr09
+type: parsed
+protocol: SIRC
+address: 09 00 00 00
+command: 14 00 00 00
+#
+name: Mute_addr10
+type: parsed
+protocol: SIRC
+address: 0A 00 00 00
+command: 14 00 00 00
+#
+name: Mute_addr11
+type: parsed
+protocol: SIRC
+address: 0B 00 00 00
+command: 14 00 00 00
+#
+name: Mute_addr12
+type: parsed
+protocol: SIRC
+address: 0C 00 00 00
+command: 14 00 00 00
+#
+name: Mute_addr13
+type: parsed
+protocol: SIRC
+address: 0D 00 00 00
+command: 14 00 00 00
+#
+name: Mute_addr14
+type: parsed
+protocol: SIRC
+address: 0E 00 00 00
+command: 14 00 00 00
+#
+name: Mute_addr15
+type: parsed
+protocol: SIRC
+address: 0F 00 00 00
+command: 14 00 00 00
+#
+name: Mute_addr16
+type: parsed
+protocol: SIRC
+address: 10 00 00 00
+command: 14 00 00 00
+#
+name: Mute_addr17
+type: parsed
+protocol: SIRC
+address: 11 00 00 00
+command: 14 00 00 00
+#
+name: Mute_addr18
+type: parsed
+protocol: SIRC
+address: 12 00 00 00
+command: 14 00 00 00
+#
+name: Mute_addr19
+type: parsed
+protocol: SIRC
+address: 13 00 00 00
+command: 14 00 00 00
+#
+name: Mute_addr20
+type: parsed
+protocol: SIRC
+address: 14 00 00 00
+command: 14 00 00 00
+#
+name: Mute_addr21
+type: parsed
+protocol: SIRC
+address: 15 00 00 00
+command: 14 00 00 00
+#
+name: Mute_addr22
+type: parsed
+protocol: SIRC
+address: 16 00 00 00
+command: 14 00 00 00
+#
+name: Mute_addr23
+type: parsed
+protocol: SIRC
+address: 17 00 00 00
+command: 14 00 00 00
+#
+name: Mute_addr24
+type: parsed
+protocol: SIRC
+address: 18 00 00 00
+command: 14 00 00 00
+#
+name: Mute_addr25
+type: parsed
+protocol: SIRC
+address: 19 00 00 00
+command: 14 00 00 00
+#
+name: Mute_addr26
+type: parsed
+protocol: SIRC
+address: 1A 00 00 00
+command: 14 00 00 00
+#
+name: Mute_addr27
+type: parsed
+protocol: SIRC
+address: 1B 00 00 00
+command: 14 00 00 00
+#
+name: Mute_addr28
+type: parsed
+protocol: SIRC
+address: 1C 00 00 00
+command: 14 00 00 00
+#
+name: Mute_addr29
+type: parsed
+protocol: SIRC
+address: 1D 00 00 00
+command: 14 00 00 00
+#
+name: Mute_addr30
+type: parsed
+protocol: SIRC
+address: 1E 00 00 00
+command: 14 00 00 00
+#
+name: Mute_addr31
+type: parsed
+protocol: SIRC
+address: 1F 00 00 00
+command: 14 00 00 00
+#
