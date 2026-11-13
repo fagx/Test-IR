@@ -1,0 +1,111 @@
+Filetype: IR signals file
+Version: 1
+#
+name: Band_dev000_15bit
+type: parsed
+protocol: SIRC15
+address: 00 00 00 00
+command: 0F 00 00 00
+#
+name: Mute_dev000_15bit
+type: parsed
+protocol: SIRC15
+address: 00 00 00 00
+command: 14 00 00 00
+#
+name: Band_dev001_15bit
+type: parsed
+protocol: SIRC15
+address: 01 00 00 00
+command: 0F 00 00 00
+#
+name: Mute_dev001_15bit
+type: parsed
+protocol: SIRC15
+address: 01 00 00 00
+command: 14 00 00 00
+#
+name: Band_dev002_15bit
+type: parsed
+protocol: SIRC15
+address: 02 00 00 00
+command: 0F 00 00 00
+#
+name: Mute_dev002_15bit
+type: parsed
+protocol: SIRC15
+address: 02 00 00 00
+command: 14 00 00 00
+#
+name: Band_dev003_15bit
+type: parsed
+protocol: SIRC15
+address: 03 00 00 00
+command: 0F 00 00 00
+#
+name: Mute_dev003_15bit
+type: parsed
+protocol: SIRC15
+address: 03 00 00 00
+command: 14 00 00 00
+#
+name: Band_dev004_15bit
+type: parsed
+protocol: SIRC15
+address: 04 00 00 00
+command: 0F 00 00 00
+#
+name: Mute_dev004_15bit
+type: parsed
+protocol: SIRC15
+address: 04 00 00 00
+command: 14 00 00 00
+#
+name: Band_dev005_15bit
+type: parsed
+protocol: SIRC15
+address: 05 00 00 00
+command: 0F 00 00 00
+#
+name: Mute_dev005_15bit
+type: parsed
+protocol: SIRC15
+address: 05 00 00 00
+command: 14 00 00 00
+#
+name: Band_dev006_15bit
+type: parsed
+protocol: SIRC15
+address: 06 00 00 00
+command: 0F 00 00 00
+#
+name: Mute_dev006_15bit
+type: parsed
+protocol: SIRC15
+address: 06 00 00 00
+command: 14 00 00 00
+#
+name: Band_dev007_15bit
+type: parsed
+protocol: SIRC15
+address: 07 00 00 00
+command: 0F 00 00 00
+#
+name: Mute_dev007_15bit
+type: parsed
+protocol: SIRC15
+address: 07 00 00 00
+command: 14 00 00 00
+#
+name: Band_dev132_15bit
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 0F 00 00 00
+#
+name: Mute_dev132_15bit
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 14 00 00 00
+#
