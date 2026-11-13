@@ -1,0 +1,27 @@
+Filetype: IR signals file
+Version: 1
+#
+name: Menu_abrir_16
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 10 00 00 00
+#
+name: Menu_siguiente_52
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 34 00 00 00
+#
+name: Menu_anterior_53
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 35 00 00 00
+#
+name: Menu_atras_15_candidato
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 0F 00 00 00
+#
