@@ -1,0 +1,51 @@
+Filetype: IR signals file
+Version: 1
+#
+name: Power_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 0D 00 00 00
+#
+name: Volume_Up_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 12 00 00 00
+#
+name: Volume_Down_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 13 00 00 00
+#
+name: Mute_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 14 00 00 00
+#
+name: Band_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 0F 00 00 00
+#
+name: Source_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 46 00 00 00
+#
+name: Seek_Up_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 1C 00 00 00
+#
+name: Seek_Down_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 1B 00 00 00
+#
