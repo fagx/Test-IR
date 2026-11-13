@@ -1,0 +1,147 @@
+Filetype: IR signals file
+Version: 1
+#
+name: M16_Menu_antes_de_Off
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 10 00 00 00
+#
+name: Cmd_Off
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 0D 00 00 00
+#
+name: Cmd_Band
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 0F 00 00 00
+#
+name: Cmd_Sel
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 11 00 00 00
+#
+name: M16_Menu_antes_de_Vol_Up
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 10 00 00 00
+#
+name: Cmd_Vol_Up
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 12 00 00 00
+#
+name: Cmd_Vol_Down
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 13 00 00 00
+#
+name: Cmd_Mute
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 14 00 00 00
+#
+name: M16_Menu_antes_de_Seek_Down
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 10 00 00 00
+#
+name: Cmd_Seek_Down
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 1B 00 00 00
+#
+name: Cmd_Seek_Up
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 1C 00 00 00
+#
+name: Cmd_Preset_Long_Down
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 1D 00 00 00
+#
+name: M16_Menu_antes_de_Preset_Long_Up
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 10 00 00 00
+#
+name: Cmd_Preset_Long_Up
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 1E 00 00 00
+#
+name: Cmd_Source
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 46 00 00 00
+#
+name: Cmd_Mode
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 47 00 00 00
+#
+name: M16_Menu_antes_de_FM1_FM2
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 10 00 00 00
+#
+name: Cmd_FM1_FM2
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 4B 00 00 00
+#
+name: Cmd_AM
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 4C 00 00 00
+#
+name: Cmd_Seek_Down_alt
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 35 00 00 00
+#
+name: M16_Menu_antes_de_Seek_Up_alt
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 10 00 00 00
+#
+name: Cmd_Seek_Up_alt
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 34 00 00 00
+#
+name: Cmd_Preset_1
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 30 00 00 00
+#
+name: Cmd_Preset_2
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 31 00 00 00
+#
