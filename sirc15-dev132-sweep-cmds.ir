@@ -1,0 +1,771 @@
+Filetype: IR signals file
+Version: 1
+#
+name: Cmd_000_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 00 00 00 00
+#
+name: Cmd_001_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 01 00 00 00
+#
+name: Cmd_002_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 02 00 00 00
+#
+name: Cmd_003_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 03 00 00 00
+#
+name: Cmd_004_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 04 00 00 00
+#
+name: Cmd_005_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 05 00 00 00
+#
+name: Cmd_006_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 06 00 00 00
+#
+name: Cmd_007_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 07 00 00 00
+#
+name: Cmd_008_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 08 00 00 00
+#
+name: Cmd_009_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 09 00 00 00
+#
+name: Cmd_010_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 0A 00 00 00
+#
+name: Cmd_011_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 0B 00 00 00
+#
+name: Cmd_012_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 0C 00 00 00
+#
+name: Cmd_013_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 0D 00 00 00
+#
+name: Cmd_014_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 0E 00 00 00
+#
+name: Cmd_015_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 0F 00 00 00
+#
+name: Cmd_016_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 10 00 00 00
+#
+name: Cmd_017_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 11 00 00 00
+#
+name: Cmd_018_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 12 00 00 00
+#
+name: Cmd_019_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 13 00 00 00
+#
+name: Cmd_020_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 14 00 00 00
+#
+name: Cmd_021_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 15 00 00 00
+#
+name: Cmd_022_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 16 00 00 00
+#
+name: Cmd_023_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 17 00 00 00
+#
+name: Cmd_024_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 18 00 00 00
+#
+name: Cmd_025_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 19 00 00 00
+#
+name: Cmd_026_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 1A 00 00 00
+#
+name: Cmd_027_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 1B 00 00 00
+#
+name: Cmd_028_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 1C 00 00 00
+#
+name: Cmd_029_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 1D 00 00 00
+#
+name: Cmd_030_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 1E 00 00 00
+#
+name: Cmd_031_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 1F 00 00 00
+#
+name: Cmd_032_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 20 00 00 00
+#
+name: Cmd_033_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 21 00 00 00
+#
+name: Cmd_034_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 22 00 00 00
+#
+name: Cmd_035_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 23 00 00 00
+#
+name: Cmd_036_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 24 00 00 00
+#
+name: Cmd_037_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 25 00 00 00
+#
+name: Cmd_038_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 26 00 00 00
+#
+name: Cmd_039_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 27 00 00 00
+#
+name: Cmd_040_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 28 00 00 00
+#
+name: Cmd_041_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 29 00 00 00
+#
+name: Cmd_042_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 2A 00 00 00
+#
+name: Cmd_043_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 2B 00 00 00
+#
+name: Cmd_044_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 2C 00 00 00
+#
+name: Cmd_045_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 2D 00 00 00
+#
+name: Cmd_046_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 2E 00 00 00
+#
+name: Cmd_047_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 2F 00 00 00
+#
+name: Cmd_048_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 30 00 00 00
+#
+name: Cmd_049_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 31 00 00 00
+#
+name: Cmd_050_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 32 00 00 00
+#
+name: Cmd_051_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 33 00 00 00
+#
+name: Cmd_052_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 34 00 00 00
+#
+name: Cmd_053_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 35 00 00 00
+#
+name: Cmd_054_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 36 00 00 00
+#
+name: Cmd_055_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 37 00 00 00
+#
+name: Cmd_056_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 38 00 00 00
+#
+name: Cmd_057_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 39 00 00 00
+#
+name: Cmd_058_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 3A 00 00 00
+#
+name: Cmd_059_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 3B 00 00 00
+#
+name: Cmd_060_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 3C 00 00 00
+#
+name: Cmd_061_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 3D 00 00 00
+#
+name: Cmd_062_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 3E 00 00 00
+#
+name: Cmd_063_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 3F 00 00 00
+#
+name: Cmd_064_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 40 00 00 00
+#
+name: Cmd_065_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 41 00 00 00
+#
+name: Cmd_066_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 42 00 00 00
+#
+name: Cmd_067_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 43 00 00 00
+#
+name: Cmd_068_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 44 00 00 00
+#
+name: Cmd_069_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 45 00 00 00
+#
+name: Cmd_070_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 46 00 00 00
+#
+name: Cmd_071_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 47 00 00 00
+#
+name: Cmd_072_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 48 00 00 00
+#
+name: Cmd_073_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 49 00 00 00
+#
+name: Cmd_074_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 4A 00 00 00
+#
+name: Cmd_075_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 4B 00 00 00
+#
+name: Cmd_076_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 4C 00 00 00
+#
+name: Cmd_077_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 4D 00 00 00
+#
+name: Cmd_078_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 4E 00 00 00
+#
+name: Cmd_079_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 4F 00 00 00
+#
+name: Cmd_080_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 50 00 00 00
+#
+name: Cmd_081_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 51 00 00 00
+#
+name: Cmd_082_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 52 00 00 00
+#
+name: Cmd_083_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 53 00 00 00
+#
+name: Cmd_084_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 54 00 00 00
+#
+name: Cmd_085_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 55 00 00 00
+#
+name: Cmd_086_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 56 00 00 00
+#
+name: Cmd_087_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 57 00 00 00
+#
+name: Cmd_088_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 58 00 00 00
+#
+name: Cmd_089_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 59 00 00 00
+#
+name: Cmd_090_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 5A 00 00 00
+#
+name: Cmd_091_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 5B 00 00 00
+#
+name: Cmd_092_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 5C 00 00 00
+#
+name: Cmd_093_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 5D 00 00 00
+#
+name: Cmd_094_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 5E 00 00 00
+#
+name: Cmd_095_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 5F 00 00 00
+#
+name: Cmd_096_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 60 00 00 00
+#
+name: Cmd_097_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 61 00 00 00
+#
+name: Cmd_098_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 62 00 00 00
+#
+name: Cmd_099_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 63 00 00 00
+#
+name: Cmd_100_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 64 00 00 00
+#
+name: Cmd_101_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 65 00 00 00
+#
+name: Cmd_102_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 66 00 00 00
+#
+name: Cmd_103_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 67 00 00 00
+#
+name: Cmd_104_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 68 00 00 00
+#
+name: Cmd_105_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 69 00 00 00
+#
+name: Cmd_106_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 6A 00 00 00
+#
+name: Cmd_107_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 6B 00 00 00
+#
+name: Cmd_108_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 6C 00 00 00
+#
+name: Cmd_109_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 6D 00 00 00
+#
+name: Cmd_110_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 6E 00 00 00
+#
+name: Cmd_111_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 6F 00 00 00
+#
+name: Cmd_112_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 70 00 00 00
+#
+name: Cmd_113_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 71 00 00 00
+#
+name: Cmd_114_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 72 00 00 00
+#
+name: Cmd_115_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 73 00 00 00
+#
+name: Cmd_116_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 74 00 00 00
+#
+name: Cmd_117_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 75 00 00 00
+#
+name: Cmd_118_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 76 00 00 00
+#
+name: Cmd_119_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 77 00 00 00
+#
+name: Cmd_120_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 78 00 00 00
+#
+name: Cmd_121_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 79 00 00 00
+#
+name: Cmd_122_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 7A 00 00 00
+#
+name: Cmd_123_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 7B 00 00 00
+#
+name: Cmd_124_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 7C 00 00 00
+#
+name: Cmd_125_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 7D 00 00 00
+#
+name: Cmd_126_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 7E 00 00 00
+#
+name: Cmd_127_dev132
+type: parsed
+protocol: SIRC15
+address: 84 00 00 00
+command: 7F 00 00 00
+#
